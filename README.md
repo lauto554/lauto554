@@ -7,13 +7,14 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-- 🧠 Desarrollador full stack con enfoque en **JavaScript moderno** (Node.js, React, TypeScript)
-- 🧩 DBA con experiencia real en **PostgreSQL** y **Firebird**
-- 🖥️ Administro mi propio **VPS en Linux**, sin paneles, con configuración manual de firewall, SSH, y más
-- 🧾 Me conecto directo a la API de AFIP desde Node.js
-- 🧗 Escalador, vegano, fan del terminal limpio y del código mantenible
+- 👥 Team lead at NovaSoftware, managing a 5-person dev team and guiding the architecture and roadmap
+- 🧠 Frontend & Desktop developer using React, TypeScript, Electron, Vite, Next.js
+- 🔧 Backend experience with Node.js and PHP (REST APIs, integrations, business logic)
+- 🧩 Real-world experience as a PostgreSQL and Firebird DBA
+- 🖥️ Linux VPS administrator — full control with no panels, custom firewall rules, SSH key management, and manual server provisioning
+- 🧾 Specialized in complex integrations: AFIP Web Services for e-invoicing, Epson fiscal printers (low-level comm), and Google APIs (OAuth2, Drive, Gmail)
 
 ---
 
