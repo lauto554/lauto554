@@ -12,17 +12,18 @@
 - 👥 Team lead at NovaSoftware, managing a 5-person dev team and guiding the architecture and roadmap
 - 🧠 Frontend & Desktop developer using React, TypeScript, Electron, Vite, Next.js
 - 🔧 Backend experience with Node.js and PHP (REST APIs, integrations, business logic)
-- 🧩 Real-world experience as a PostgreSQL and Firebird DBA
+- 🧩 DBA in PostgreSQL and Firebird — design, maintenance, optimization, and advanced SQL logic (procedures, triggers, functions)
 - 🖥️ Linux VPS administrator — full control with no panels, custom firewall rules, SSH key management, and manual server provisioning
 - 🧾 Specialized in complex integrations: AFIP Web Services for e-invoicing, Epson fiscal printers (low-level comm), and Google APIs (OAuth2, Drive, Gmail)
+- 📱 React Native & Expo developer — familiar with Android Studio, APK builds, and native module integrations using Java and Kotlin
 
 ---
 
-## 🧰 Tecnologías principales
+## 🧰 Main Technologies
 
-| Frontend                          | Backend                 | Base de datos         | DevOps                          |
-| --------------------------------- | ----------------------- | --------------------- | ------------------------------- |
-| React · Next.js · Tailwind · Vite | Node.js · Express · JWT | PostgreSQL · Firebird | Linux · Git · WSL2 · Bash · SSH |
+| Frontend                                                           | Backend                                                      | Databases             | DevOps / Tools                                            |
+| ------------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- | --------------------------------------------------------- |
+| React · Next.js · Tailwind · Vite · Electron · React Native · Expo | Node.js · Express · PHP · JWT · Java/Kotlin (native bridges) | PostgreSQL · Firebird | Linux · Git · GitHub · WSL2 · Bash · SSH · Android Studio |
 
 ---
 
