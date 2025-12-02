@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lautaro 👋</h1>
 
 <p align="center">
-  <b>Team Lead - Full Stack Developer · DBA PostgreSQL · Linux Junior</b><br>
+  <b>Full Stack Developer · DBA PostgreSQL · Linux Junior</b><br>
   <!-- <i>Transformando terminales en herramientas de impacto.</i> -->
 </p>
 
@@ -58,5 +58,6 @@
 <p align="center">
   Thanks for visiting my profile 🤝 Always learning and building!
 </p>
+
 
 
