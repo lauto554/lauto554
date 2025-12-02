@@ -14,7 +14,7 @@
 - 🔧 Backend experience with Node.js and PHP (REST APIs, integrations, business logic)
 - 🧩 DBA in PostgreSQL and Firebird — design, maintenance, optimization, and advanced SQL logic (procedures, triggers, functions)
 - 🖥️ Linux VPS administrator — full control with no panels, custom firewall rules, SSH key management, and manual server provisioning
-- 🧾 Specialized in complex integrations: AFIP Web Services for e-invoicing, Epson fiscal printers (low-level comm), and Google APIs (OAuth2, Drive, Gmail)
+- 🧾 Specialized in complex integrations: AFIP Web Services for e-invoicing, Epson fiscal printers (low-level comm), Google APIs (OAuth2, Drive, Gmail), Mercado Pago, Clover, n8n
 - 📱 React Native & Expo developer — familiar with Android Studio, APK builds, and native module integrations using Java and Kotlin
 - 🧩 Integrated Git submodules for code reuse and consistent UI/UX branding across multiple repositories
 
@@ -58,4 +58,5 @@
 <p align="center">
   Thanks for visiting my profile 🤝 Always learning and building!
 </p>
+
 
