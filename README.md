@@ -1,39 +1,22 @@
 <h1 align="center">Hi, I'm Lautaro 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · DBA PostgreSQL · Linux Junior</b><br>
-  <!-- <i>Transformando terminales en herramientas de impacto.</i> -->
+  <b>Founder of Vinxis Dev | Full Stack Developer</b><br>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👥 Team lead at NovaSoftware, managing a 5-person dev team and guiding the architecture and roadmap
-- 🧠 Frontend & Desktop developer using React, TypeScript, Electron, Vite, Next.js
-- 🔧 Backend experience with Node.js and PHP (REST APIs, integrations, business logic)
-- 🧩 DBA in PostgreSQL and Firebird — design, maintenance, optimization, and advanced SQL logic (procedures, triggers, functions)
-- 🖥️ Linux VPS administrator — full control with no panels, custom firewall rules, SSH key management, and manual server provisioning
-- 🧾 Specialized in complex integrations: AFIP Web Services for e-invoicing, Epson fiscal printers (low-level comm), Google APIs (OAuth2, Drive, Gmail), Mercado Pago, Clover, n8n
-- 📱 React Native & Expo developer — familiar with Android Studio, APK builds, and native module integrations using Java and Kotlin
-- 🧩 Integrated Git submodules for code reuse and consistent UI/UX branding across multiple repositories
+I’m a Full Stack Developer focused on backend development and database design, building scalable systems and solving real-world problems through integrations and automation.
 
----
+I work mainly with JavaScript/TypeScript, developing APIs, business logic and connecting systems that need to talk to each other — from fiscal services to payment platforms and cloud APIs.
 
-## 🧰 Main Technologies
+I have solid experience with PostgreSQL, designing efficient data models and implementing advanced SQL logic.
 
-| Frontend                                                           | Backend                                                      | Databases             | DevOps / Tools                                            |
-| ------------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- | --------------------------------------------------------- |
-| React · Next.js · Tailwind · Vite · Electron · React Native · Expo | Node.js · Express · PHP · JWT · Java/Kotlin (native bridges) | PostgreSQL · Firebird | Linux · Git · GitHub · WSL2 · Bash · SSH · Android Studio |
+I’m also comfortable managing Linux servers, handling deployments, SSH access, and custom configurations without relying on control panels.
 
-
----
-
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauto554&show_icons=true&theme=tokyonight" alt="lauto554's GitHub Stats">
-</p>
+Currently, I’m the founder of VinxisDev, where I build automation solutions and complex integrations for businesses, helping them reduce manual work and improve their workflows.
 
 ---
 
@@ -41,23 +24,10 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/martinez-lautaro/)
 - 📧 lautarojm185@gmail.com
-
----
-
-## 🧠 Currently Learning
-
-- Developing low-level fiscal interfaces (.NET / C)
-- IBM certification on relational databases
-- Advanced Git and GitHub workflows
-- Linux system administration
-- Team leadership and Agile methodologies
-- Improving English proficiency
+- 🔗 [Vinxis](https://www.vinxis.com/)
 
 ---
 
 <p align="center">
   Thanks for visiting my profile 🤝 Always learning and building!
 </p>
-
-
-
